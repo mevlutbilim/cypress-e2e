@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  cypress:
+    build: ./docker-cypress
+    volumes:
+      - .:/app
+    command: npm run cy:run

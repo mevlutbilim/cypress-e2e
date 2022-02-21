@@ -1,0 +1,8 @@
+{
+  "env": {
+    "name": "blazeme",
+    "password": "blaze123"
+  },
+  "baseUrl": "https://www.demoblaze.com/",
+  "projectId": "ibsuai"
+}
